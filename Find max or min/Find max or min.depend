@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679091012 source:c:\users\it\desktop\projects c++\find max or min\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
